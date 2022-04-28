@@ -1,5 +1,5 @@
 '''
-Tic-Tac-Toe
+TicTacToe
 Author: Trevor Jones
 '''
 
